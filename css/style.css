@@ -74,7 +74,7 @@ h1 {
     color: #6000F1;
     text-transform: uppercase;
     font-size: 6em;
-    padding: 1.75em 0 1.75em 0;
+    padding: 2.20em 0 1.75em 0;
     overflow: hidden; /* Ensures the content is not revealed until the animation */
     border-right: .02em solid #000; /* The typwriter cursor */
     white-space: nowrap; /* Keeps the content on a single line */
@@ -342,7 +342,7 @@ footer {
 
 @media only screen and (max-width: 1366px) {
     .small-icon img {
-        width: 8%;
+        width: 6%;
         margin: 1em;
     }
 
@@ -351,12 +351,12 @@ footer {
     }
 
     h1 {
-        font-size: 7em;
-        padding: 3.25em 0 1.75em 0;
+        font-size: 6em;
+        padding: 2em 0 1.75em 0;
     }
 
     button {
-    font-size: 1em;
+    font-size: .75em;
     }
 
 }
