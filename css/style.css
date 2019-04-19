@@ -154,7 +154,7 @@ img {
 }
 
 video {
-    width: 90%;
+    width: 95%;
 }
 
 footer {
@@ -370,11 +370,6 @@ footer {
         margin: 1em;
     }
 
-    video {
-        width: 95%;
-        padding-top: 1em;
-    }
-
     h1 {
         font-size: 6em;
         padding: 2em 0 1.75em 0;
@@ -431,11 +426,6 @@ footer {
         font-size: .7em;
     }
 
-    video {
-        width: 100%;
-        padding-top: 1em;
-    }
-
     .large-icon img {
         width: 10%;
         margin: 1em;
@@ -484,11 +474,6 @@ footer {
 
     .h6-purple {
         font-size: .5em;
-    }
-
-    video {
-        width: 100%;
-        padding-top: 1em;
     }
 
     .large-icon img {
