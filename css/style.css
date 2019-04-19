@@ -288,6 +288,14 @@ footer {
     display: block;
 }
 
+.desktop {
+    width: 90%;
+}
+
+.blubrush {
+    width: 20%;
+}
+
 .clearfix:after {
     visibility: hidden;
     display: block;
@@ -389,6 +397,10 @@ footer {
     font-size: .75em;
     }
 
+    video {
+        width: 85%;
+    }
+
     .thirty-images img {
         max-width: 25em;
     }
@@ -397,8 +409,8 @@ footer {
         max-width: 30em;
     }
 
-    video {
-        width: 85%;
+    .blubrush {
+        width: 23%;
     }
 
 }
@@ -418,11 +430,6 @@ footer {
         font-size: 1.5em;
     }
 
-    .small-icon img {
-        width: 12%;
-        margin: .5em;
-    }
-
     h5 {
         font-size: .6em;
         width: 80%;
@@ -432,16 +439,25 @@ footer {
         font-size: 1em;
     }
 
-    .h4-footer {
-        font-size: 1.5em;
-    }
-
     h6 {
         font-size: .7em;
     }
 
+    video {
+        width: 90%;
+    }
+
+    .h4-footer {
+        font-size: 1.5em;
+    }
+
     .h6-purple {
         font-size: .7em;
+    }
+
+    .small-icon img {
+        width: 12%;
+        margin: .5em;
     }
 
     .large-icon img {
@@ -454,12 +470,13 @@ footer {
     }
 
     .thirtyfive-images img {
-        max-width: 25em;
+        max-width: 21em;
     }
 
-    video {
-        width: 90%;
+    .blubrush {
+        width: 26%;
     }
+
 }
 
 @media only screen and (max-width: 568px) {
@@ -476,11 +493,6 @@ footer {
         font-size: 1.25em;
     }
 
-    .small-icon img {
-        width: 10%;
-        margin: .5em;
-    }
-
     h5 {
         font-size: .6em;
         width: 80%;
@@ -490,12 +502,21 @@ footer {
         font-size: .8em;
     }
 
+    h6 {
+        font-size: .5em;
+    }
+
+    video {
+        width: 95%;
+    }
+
     .h4-footer {
         font-size: 1.25em;
     }
 
-    h6 {
-        font-size: .5em;
+    .small-icon img {
+        width: 10%;
+        margin: .5em;
     }
 
     .h6-purple {
@@ -524,11 +545,11 @@ footer {
     }
 
     .thirtyfive-images img {
-        max-width: 23em;
+        max-width: 20em;
     }
 
-    video {
-        width: 95%;
+    .blubrush {
+        width: 30%;
     }
 }
 
