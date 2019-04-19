@@ -235,6 +235,14 @@ footer {
     display: block;
 }
 
+.thirtyfive-images img {
+    width: 100%;
+    margin: 0 auto;
+    padding: 1em;
+    max-width: 35em;
+    display: block;
+}
+
 .fourty-images img {
     width: 100%;
     margin: 0 auto;
@@ -383,6 +391,10 @@ footer {
         max-width: 25em;
     }
 
+    .thirtyfive-images img {
+        max-width: 30em;
+    }
+
 }
 
 
@@ -432,6 +444,10 @@ footer {
     }
 
     .thirty-images img {
+        max-width: 25em;
+    }
+
+    .thirtyfive-images img {
         max-width: 25em;
     }
 }
@@ -495,6 +511,10 @@ footer {
 
     .twentyfive-images img {
         max-width: 18em;
+    }
+
+    .thirtyfive-images img {
+        max-width: 23em;
     }
 }
 
