@@ -154,7 +154,7 @@ img {
 }
 
 video {
-    width: 95%;
+    width: 80%;
 }
 
 footer {
@@ -275,17 +275,6 @@ footer {
     display: block;
 }
 
-.prototype iframe {
-    border:0px;
-    background-color: #ffffff
-    scrolling: none; 
-    frameborder: 1;
-    margin: 0 auto;
-    height:20em;
-    width:20em;
-    display: block;
-}
-
 .clearfix:after {
     visibility: hidden;
     display: block;
@@ -395,6 +384,10 @@ footer {
         max-width: 30em;
     }
 
+    video {
+        width: 85%;
+    }
+
 }
 
 
@@ -449,6 +442,10 @@ footer {
 
     .thirtyfive-images img {
         max-width: 25em;
+    }
+
+    video {
+        width: 90%;
     }
 }
 
@@ -515,6 +512,10 @@ footer {
 
     .thirtyfive-images img {
         max-width: 23em;
+    }
+
+    video {
+        width: 95%;
     }
 }
 
