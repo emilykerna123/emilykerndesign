@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Emily Kern Portfolio</title>
+		<link rel="stylesheet" type="text/css" href="css/reset.css">
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<link rel="stylesheet" type="text/css" href="css/test.css">
+		<link rel="stylesheet" href="https://use.typekit.net/lse7ewe.css">
+		<link rel="stylesheet" href="https://use.typekit.net/lse7ewe.css">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link href="https://fonts.googleapis.com/css?family=Asap|Mukta|Play|Quicksand|Thasadith" rel="stylesheet">
+		<link rel="icon" type="image/png" href="images/favicon@2x.png">
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-126663171-1"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-126663171-1');
+		</script>
+		<script>
+			// When the user scrolls down 20px from the top of the document, show the button
+			window.onscroll = function() {scrollFunction()};
+
+			function scrollFunction() {
+			    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+			        document.getElementById("myBtn").style.display = "block";
+			    } else {
+			        document.getElementById("myBtn").style.display = "none";
+			    }
+			}
+
+			// When the user clicks on the button, scroll to the top of the document
+			function topFunction() {
+			    document.body.scrollTop = 0; // For Safari
+			    document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+			}
+		</script>
+	</head>
+
+	<body>
+
+		<div>
+			<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+		</div>
+
+		<nav>
+			<button><a href="index.html">HOME</a></button>
+			<button><a href="images/emilykernresume_2019.pdf" target="_blank" download="emilykernresume_2019">RESUME</a></button>			
+			<button><a href="index.html#work">WORK</a></button>
+			<button><a href="process.html">PROCESS</a></button>
+			<button><a href="index.html#contact">CONTACT</a></button>
+		</nav>
+
+		<header class="clearfix">
+			<h3>Process</h3>
+		</header>
+
+		<section class="casestudy-sections">
+			<h4>Strategy</h4>
+			<h5>The foundation of any successful UX. I start by understanding the product, the application for the site, why we are creating it, who are we doing this for, why people are willing to use it, and why they need it. The goal here is to define the user needs and business objectives.</h5>
+			<div class="columns">
+				<h6 class="h6-purple">Stakeholder Interviews</h6>
+				<h5>What defines success?</br>What is their vision?</br>What is this product for?</br>Who is this product for?</br>What are the risks?</h5>
+			</div>
+			<div class="columns">
+				<h6 class="h6-purple">Competitor Research</h6>
+				<h5>Who are their competitors?</br>What is their market?</br>What are their strengths?</br>What are their weaknesses?</br>How can we stand out?</h5>
+			</div>
+			<div class="columns">
+				<h6 class="h6-purple">User Interviews</h6>
+				<h5>What do users want?</br>Who are the primary users?</br>What are their objectives?</br>What is their background?</br>What are their pain points?</h5>
+			</div>
+		</section>
+
+		<section class="casestudy-sections">
+			<h4>Scope</h4>
+			<h5>Once I understand the business objectives and user needs I work with the stakeholders to finalize the scope. This includes the features and content contained in the application or product. From there I work on defining the requirements. The requirements are considered done when they fulfill and are aligned with the strategic goals.</h5>
+		</section>
+
+		<section class="casestudy-sections">
+			<h4>Structure</h4>
+			<h5>Once the scope & requirements are defined I create the interactions for the system functionality, response, and how information is organized. This allows me to outline how users will interact with the product, how the system behaves when users interact, and how it's prioritized.</h5>
+			<div class="fourty-images">
+				<img src="images/process-sitemap.png" alt="process-sitemap">
+			</div>	
+		</section>
+
+		<section class="casestudy-sections">
+			<h4>Skeleton</h4>
+			<h5>I then sketch each screen of the system to present the areas of interactions & information. I determine the visual form on the screen, presentation and arrangement of all elements that make users interact with the functionality.</h5>
+			<div class="fourty-images">
+				<img src="images/process-desktop-skeleton.png" alt="process-desktop-skeleton">
+				<img src="images/process-mobile-skeleton.png" alt="process-mobile-skeleton">
+			</div>	
+		</section>
+
+		<section class="casestudy-sections">
+			<h4>Surface</h4>
+			<h5>After taking in all the research and decisions I start the final visual presentation. I make sure to keep my designs in line with visual foundation best practices.</h5>
+			<div class="fourty-images">
+				<img src="images/process-surface.png" alt="process-surface">
+			</div>
+		</section>
+
+		<footer>
+			<div class="h4-footer">Contact</div>
+			<div class="three-column-footer">
+				<div class="small-icon">
+					<a href="https://www.linkedin.com/in/emilykern/" title="linkedin" target="_blank"><img src="images/linkedin.svg" alt="linkedin" title="linkedin"></a>
+					<a href="https://www.behance.net/emilykernae181" title="behance" target="_blank"><img src="images/behance.svg" alt="behance" title="behance"></a>
+					<a href="https://github.com/emilykerna123?tab=repositories" target="_blank" title="github"><img src="images/github.svg" alt="github" title="github"></a>
+				</div>
+			</div>
+		</footer>
+	</body>
+</html>
+
