@@ -413,6 +413,10 @@ footer {
         width: 23%;
     }
 
+    .h4-purple {
+        font-size: 1em;
+    }
+
 }
 
 
@@ -475,6 +479,10 @@ footer {
 
     .blubrush {
         width: 26%;
+    }
+
+    .h4-purple {
+        font-size: .8em;
     }
 
 }
@@ -550,6 +558,10 @@ footer {
 
     .blubrush {
         width: 30%;
+    }
+
+    .h4-purple {
+        font-size: .65em;
     }
 }
 
