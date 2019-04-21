@@ -256,6 +256,14 @@ footer {
     display: block;
 }
 
+.thirtyseven-images img {
+    width: 100%;
+    margin: 0 auto;
+    padding: 1em;
+    max-width: 37em;
+    display: block;
+}
+
 .fourty-images img {
     width: 100%;
     margin: 0 auto;
