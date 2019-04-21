@@ -288,6 +288,14 @@ footer {
     display: block;
 }
 
+.eighty-images img {
+    width: 100%;
+    margin: 0 auto;
+    padding: 1em;
+    max-width: 80em;
+    display: block;
+}
+
 .desktop {
     width: 90%;
 }
