@@ -425,6 +425,10 @@ footer {
         max-width: 30em;
     }
 
+    .thirtyseven-images img {
+        max-width: 31em;
+    }
+
     .blubrush {
         width: 23%;
     }
@@ -491,6 +495,10 @@ footer {
 
     .thirtyfive-images img {
         max-width: 21em;
+    }
+
+    .thirtyseven-images img {
+        max-width: 20em;
     }
 
     .blubrush {
@@ -570,6 +578,10 @@ footer {
 
     .thirtyfive-images img {
         max-width: 20em;
+    }
+
+    .thirtyseven-images img {
+        max-width: 21em;
     }
 
     .blubrush {
