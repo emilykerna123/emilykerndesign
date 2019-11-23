@@ -568,6 +568,10 @@ footer {
         margin: 1em;
     }
 
+    .eight-images {
+        max-width: 8em;
+    }
+    
     .fifteen-images {
         max-width: 13em;
     }
