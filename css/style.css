@@ -425,12 +425,8 @@ footer {
         width: 85%;
     }
 
-    .ten-images {
-    width: 100%;
-    margin: 0 auto;
-    padding: 1em;
-    max-width: 9em;
-    display: inline-block;
+    .fifteen-images {
+    max-width: 13em;
     }
     
     .thirty-images img {
@@ -504,13 +500,9 @@ footer {
         width: 10%;
         margin: 1em;
     }
-
-    .ten-images {
-    width: 100%;
-    margin: 0 auto;
-    padding: 1em;
-    max-width: 8em;
-    display: inline-block;
+    
+    .fifteen-images {
+    max-width: 10em;
     }
     
     .thirty-images img {
@@ -585,15 +577,7 @@ footer {
     }
     
     .fifteen-images {
-        max-width: 13em;
-    }
-
-    .ten-images {
-    width: 100%;
-    margin: 0 auto;
-    padding: 1em;
-    max-width: 8em;
-    display: inline-block;
+        max-width: 8em;
     }
     
     .twenty-images {
