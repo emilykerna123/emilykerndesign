@@ -425,6 +425,14 @@ footer {
         width: 85%;
     }
 
+    .ten-images {
+    width: 100%;
+    margin: 0 auto;
+    padding: 1em;
+    max-width: 9em;
+    display: inline-block;
+    }
+    
     .thirty-images img {
         max-width: 25em;
     }
@@ -497,6 +505,14 @@ footer {
         margin: 1em;
     }
 
+    .ten-images {
+    width: 100%;
+    margin: 0 auto;
+    padding: 1em;
+    max-width: 8em;
+    display: inline-block;
+    }
+    
     .thirty-images img {
         max-width: 25em;
     }
@@ -567,15 +583,19 @@ footer {
         width: 12%;
         margin: 1em;
     }
-
-    .eight-images {
-        max-width: 8em;
-    }
     
     .fifteen-images {
         max-width: 13em;
     }
 
+    .ten-images {
+    width: 100%;
+    margin: 0 auto;
+    padding: 1em;
+    max-width: 8em;
+    display: inline-block;
+    }
+    
     .twenty-images {
         max-width: 15em;
     }
