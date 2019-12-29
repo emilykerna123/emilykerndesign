@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Emily Kern Portfolio</title>
+		<link rel="stylesheet" type="text/css" href="css/reset.css">
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<link rel="stylesheet" type="text/css" href="css/test.css">
+		<link rel="stylesheet" href="https://use.typekit.net/lse7ewe.css">
+		<link rel="stylesheet" href="https://use.typekit.net/lse7ewe.css">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link href="https://fonts.googleapis.com/css?family=Asap|Mukta|Play|Quicksand|Thasadith" rel="stylesheet">
+		<link rel="icon" type="image/png" href="images/favicon@2x.png">
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-126663171-1"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-126663171-1');
+		</script>
+		<script>
+			// When the user scrolls down 20px from the top of the document, show the button
+			window.onscroll = function() {scrollFunction()};
+
+			function scrollFunction() {
+			    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+			        document.getElementById("myBtn").style.display = "block";
+			    } else {
+			        document.getElementById("myBtn").style.display = "none";
+			    }
+			}
+
+			// When the user clicks on the button, scroll to the top of the document
+			function topFunction() {
+			    document.body.scrollTop = 0; // For Safari
+			    document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+			}
+		</script>
+	</head>
+
+	<body>
+
+		<div>
+			<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+		</div>
+
+		<nav>
+			<button><a href="index.html">HOME</a></button>
+			<button><a href="images/emilykernresume_2019.pdf" target="_blank" download="emilykernresume_2019">RESUME</a></button>
+			<button><a href="index.html#work">WORK</a></button>
+			<button><a href="process.html">PROCESS</a></button>
+			<button><a href="index.html#contact">CONTACT</a></button>
+		</nav>
+
+		<header class="clearfix">
+			<h3>Pttrns Responsive Design</h3>
+			<div class="thirty-images">
+				<img src="images/blubrush-thumbnail.svg" alt="blubrush-thumbnail">
+			</div>
+		</header>
+
+		<section class="casestudy-sections">
+			<h4>Introduction</h4>
+			<h5>Pttrns is one of my go to sites for UI inspriation. I love how it shows interactions and has a lot of different categories to search through.</h5>
+      <h4>Pain Points</h4>
+			<h5>One of my biggest pain points with Pttrns is the mobile view. It is not responsive so I can't look at it on my phone. This is a big lose for me since I like to quickly research new pttrns, but now I'm required to be at my desktop.</h5>
+		</section>
+
+		<section class="casestudy-sections">
+			<h4>My Role</h4>
+			<div class="three-column-body clearfix">
+				<div class="large-icon">
+					<img src="https://img.icons8.com/wired/128/000000/search.png">				
+				</div>
+			</div>
+			<h6>Research</h6>
+			<h5>Layout</h5>
+			<div class="three-column-body clearfix">
+				<div class="large-icon">
+					<img src="https://img.icons8.com/wired/128/000000/workflow.png">
+				</div>
+			</div>
+			<h6>Wireframes</h6>
+			<h5>Low Fidelity</h5>
+			<div class="three-column-body clearfix">
+				<div class="large-icon">
+					<img src="https://img.icons8.com/wired/124/000000/web-design.png">
+				</div>
+			</div>
+			<h6>Design</h6>
+			<h5>High Fidelity</h5>
+		</section>
+
+		<section class="casestudy-sections">
+			<h4>Challenge</h4>
+			<h5>The main challenge was to design something that worked with the existing website design. I had to find a way to design it so it would collapse when the layout would shrink.</h5>
+			<div class="fifty-images">
+				<img src="images/blubrush-before.svg" alt="blubrush-before">
+			</div>
+		</section>
+
+		<section class="casestudy-sections">
+			<h4>Layout</h4>
+			<h5>I organized the content so it would fit within the layout I wanted to use.</h5>
+			<div class="fifty-images">
+				<img src="images/blubrush-wireframes.svg" alt="blubrush-wireframes">
+			</div>
+		</section>
+    
+    <section class="casestudy-sections">
+			<h4>Wireframes</h4>
+			<h5>The wireframes helped put together the framework for the design.</h5>
+			<div class="fifty-images">
+				<img src="images/blubrush-wireframes.svg" alt="blubrush-wireframes">
+			</div>
+		</section>
+
+
+		<section class="casestudy-sections">
+			<h4>Design</h4>
+			<h5>I designed 2 options for review. Each one worked with the existing desktop design.</h5>
+			<div class="fifty-images">
+				 <img src="images/blubrush-layout.png" alt="blubrush-layout">
+			</div>	
+			<video autoplay loop class="blubrush">
+				<source src="images/blubrush.mp4" type="video/mp4" frameborder="0" allowfullscreen>
+			</video>
+		</section>
+		
+		<footer>
+			<div class="h4-footer">Contact</div>
+			<div class="three-column-footer">
+				<div class="small-icon">
+					<a href="https://www.linkedin.com/in/emilykern/" title="linkedin" target="_blank"><img src="images/linkedin.svg" alt="linkedin" title="linkedin"></a>
+					<a href="https://www.behance.net/emilykernae181" title="behance" target="_blank"><img src="images/behance.svg" alt="behance" title="behance"></a>
+					<a href="https://github.com/emilykerna123?tab=repositories" target="_blank" title="github"><img src="images/github.svg" alt="github" title="github"></a>
+				</div>
+			</div>
+		</footer>
+	</body>
+</html>
