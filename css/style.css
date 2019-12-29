@@ -208,6 +208,14 @@ footer {
     margin: 1em;
 }
 
+.iframe {
+    width: 100%;
+    margin: 0 auto;
+    padding: 1em;
+    max-width: 10em;
+    display: inline-block;
+}
+
 .ten-images {
     width: 100%;
     margin: 0 auto;
