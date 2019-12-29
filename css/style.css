@@ -211,8 +211,6 @@ footer {
 .iframe {
     width: 100%;
     margin: 0 auto;
-    padding: 1em;
-    max-width: 10em;
     display: inline-block;
 }
 
