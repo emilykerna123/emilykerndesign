@@ -73,7 +73,7 @@ h1 {
     font-family: "rift", sans-serif;
     color: #6000F1;
     text-transform: uppercase;
-    font-size: 7em;
+    font-size: 8em;
     padding: 2.20em 0 1.75em 0;
     overflow: hidden; /* Ensures the content is not revealed until the animation */
     border-right: .02em solid #000; /* The typwriter cursor */
