@@ -73,7 +73,7 @@ h1 {
     font-family: "rift", sans-serif;
     color: #6000F1;
     text-transform: uppercase;
-    font-size: 8em;
+    font-size: 10em;
     padding: 2.20em 0 1.75em 0;
     overflow: hidden; /* Ensures the content is not revealed until the animation */
     border-right: .02em solid #000; /* The typwriter cursor */
@@ -422,7 +422,7 @@ footer {
     }
 
     h1 {
-        font-size: 6em;
+        font-size: 7em;
         padding: 2em 0 1.75em 0;
     }
 
@@ -463,7 +463,7 @@ footer {
 
 @media only screen and (max-width: 813px) {
     h1 {
-        font-size: 3em;
+        font-size: 6em;
         padding: 2.75em 0 1.75em 0;
     }
 
@@ -538,7 +538,7 @@ footer {
 
 @media only screen and (max-width: 568px) {
     h1 {
-        font-size: 2.5em;
+        font-size: 4em;
         padding: 3.75em 0 1.75em 0;
     }
 
