@@ -194,7 +194,7 @@ footer {
 
 .h5-footer {
     font-family: "fairwater-script", sans-serif;
-    font-size: .6em;
+    font-size: .9em;
     font-weight: 200;
     color: #fff;
     width: 100%;
@@ -521,7 +521,11 @@ footer {
     }
 
     .h4-footer {
-        font-size: 1.5em;
+        font-size: 1.25em;
+    }
+
+    .h5-footer {
+        font-size: .7em;;
     }
 
     .h6-purple {
@@ -571,7 +575,7 @@ footer {
     }
 
     button {
-        font-size: .50em;
+        font-size: .70em;
     }
 
     h3 {
@@ -597,6 +601,10 @@ footer {
 
     .h4-footer {
         font-size: 1.25em;
+    }
+
+    .h5-footer {
+        font-size: .6em;
     }
 
     .small-icon img {
