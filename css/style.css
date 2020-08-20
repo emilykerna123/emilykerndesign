@@ -89,7 +89,7 @@ button {
     font-family: "fairwater-script", sans-serif;
     font-style: normal;
     font-size: .9em;
-    font-weight: 400;
+    font-weight: 300;
 }
 
 h1 {
@@ -117,10 +117,10 @@ h2 {
 h3 {
     font-family: "fairwater-script", sans-serif;
     font-size: 2.25em;
-    font-weight: 300;
+    font-weight: 500;
     color: #000;
     width: 100%;
-    padding: 2.75em 0 .75em 0;
+    padding: 2.75em 0 .5em 0;
 }
 
 h4 {
@@ -132,7 +132,7 @@ h4 {
     margin: 0 auto;
     text-align: center;
     line-height: 1.3em;
-    font-weight: 300;
+    font-weight: 400;
 }
 
 h5 {
@@ -155,7 +155,8 @@ h6 {
     color: #000;
     line-height: 1.20em;
     text-align: center;
-    font-weight: 200;
+    font-weight: 300;
+    padding: .5em;
 }
 
 p {
@@ -215,7 +216,7 @@ footer {
     margin: 0 auto;
     line-height: 2em;
     text-align: center;
-    font-weight: 300;
+    font-weight: 400;
 }
 
 .h6-purple {
