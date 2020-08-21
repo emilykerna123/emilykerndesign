@@ -25,6 +25,7 @@ header {
     display: block;
     width: 100%;
     padding-top: 1.5em;
+    padding-bottom: 4em;
 }
 
 a:link, a:active, a:visited, a:hover {
@@ -95,7 +96,7 @@ h1 {
     font-family: "fairwater-script", sans-serif;
     color: #6000F1;
     font-size: 6em;
-    padding: 2.20em 0em 1.75em 0em;
+    padding: 2em 0em .25em 0em;
     overflow: hidden; /* Ensures the content is not revealed until the animation */
     border-right: .02em solid #000; /* The typwriter cursor */
     white-space: nowrap; /* Keeps the content on a single line */
@@ -204,6 +205,20 @@ footer {
     line-height: 2em;
     text-align: center;
     background-color: #000;
+}
+
+.h5-header {
+    font-family: "quicksand", sans-serif;
+    font-size: .8em;
+    color: #000;
+    background-color: #fff;
+    padding: 0em 0em 0em 0em;
+    font-weight: 300;
+    margin: 0 auto;
+    line-height: 2em;
+    text-align: center;
+    width: 65%;
+    text-align-last: center;
 }
 
 .h4-purple {
@@ -454,7 +469,7 @@ footer {
 
     h1 {
         font-size: 6em;
-        padding: 2em 0 1.75em 0;
+        padding: 2em 0 .25em 0;
     }
 
     button {
@@ -489,13 +504,17 @@ footer {
         font-size: 1em;
     }
 
+    .h5-header {
+        font-size: .75em;
+    }
+
 }
 
 
 @media only screen and (max-width: 813px) {
     h1 {
         font-size: 4.5em;
-        padding: 2.75em 0 1.75em 0;
+        padding: 2.75em 0 .25em 0;
     }
 
     button {
@@ -529,6 +548,10 @@ footer {
 
     .h5-footer {
         font-size: .7em;;
+    }
+
+    .h5-header {
+        font-size: .7em;
     }
 
     .h6-purple {
@@ -573,8 +596,8 @@ footer {
 
 @media only screen and (max-width: 568px) {
     h1 {
-        font-size: 2.5em;
-        padding: 3.75em 0 1.75em 0;
+        font-size: 3.5em;
+        padding: 3.75em 0 .25em 0;
     }
 
     button {
@@ -607,6 +630,10 @@ footer {
     }
 
     .h5-footer {
+        font-size: .6em;
+    }
+
+    .h5-header {
         font-size: .6em;
     }
 
