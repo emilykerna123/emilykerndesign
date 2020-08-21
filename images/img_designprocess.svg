@@ -52,18 +52,18 @@
         </g>
       </g>
       <g id="Group_1327" data-name="Group 1327" transform="translate(0 -15)">
-        <g id="Group_1324" data-name="Group 1324" transform="translate(-17 -53)">
+        <g id="Group_1324" data-name="Group 1324" transform="translate(-17 -53)" opacity="0.5">
           <rect id="Rectangle_929" data-name="Rectangle 929" width="620" height="96" transform="translate(130 839)" fill="#6001f1"/>
-          <text id="Emphasize-2" data-name="Emphasize" transform="translate(332 830)" fill="#fff" font-size="50" font-family="FairwaterScript-Bold, Fairwater Script" font-weight="700"><tspan x="0" y="66">Emphasize</tspan></text>
+          <text id="Emphasize-2" data-name="Emphasize" transform="translate(332 899)" fill="#fff" font-size="50" font-family="FairwaterScript-Bold, Fairwater Script" font-weight="700"><tspan x="0" y="0">Emphasize</tspan></text>
         </g>
         <g id="Group_1325" data-name="Group 1325" transform="translate(-17 -46)">
-          <rect id="Rectangle_930" data-name="Rectangle 930" width="620" height="96" transform="translate(837 832)" fill="#6001f1"/>
-          <text id="Emphasize-3" data-name="Emphasize" transform="translate(1039 823)" fill="#fff" font-size="50" font-family="FairwaterScript-Bold, Fairwater Script" font-weight="700"><tspan x="0" y="66">Emphasize</tspan></text>
+          <rect id="Rectangle_930" data-name="Rectangle 930" width="620" height="96" transform="translate(837 832)" fill="#6001f1" opacity="0.75"/>
+          <text id="Explore" transform="translate(1066 892)" fill="#fff" font-size="50" font-family="FairwaterScript-Bold, Fairwater Script" font-weight="700"><tspan x="0" y="0">Explore</tspan></text>
         </g>
         <g id="Group_1326" data-name="Group 1326" transform="translate(-17 -46)">
           <g id="Group_1323" data-name="Group 1323" transform="translate(0 -10)">
             <rect id="Rectangle_931" data-name="Rectangle 931" width="620" height="96" transform="translate(1544 842)" fill="#6001f1"/>
-            <text id="Emphasize-4" data-name="Emphasize" transform="translate(1746 833)" fill="#fff" font-size="50" font-family="FairwaterScript-Bold, Fairwater Script" font-weight="700"><tspan x="0" y="66">Emphasize</tspan></text>
+            <text id="Materialize" transform="translate(1723 902)" fill="#fff" font-size="50" font-family="FairwaterScript-Bold, Fairwater Script" font-weight="700"><tspan x="0" y="0">Materialize</tspan></text>
           </g>
         </g>
       </g>
