@@ -469,7 +469,7 @@ footer {
 
     h1 {
         font-size: 6em;
-        padding: 2em 0 .25em 0;
+        padding: 2em 0em .25em 0em;
     }
 
     button {
@@ -514,7 +514,7 @@ footer {
 @media only screen and (max-width: 813px) {
     h1 {
         font-size: 4.5em;
-        padding: 2.75em 0 .25em 0;
+        padding: 2.75em 0em .25em 0em;
     }
 
     button {
@@ -597,7 +597,7 @@ footer {
 @media only screen and (max-width: 568px) {
     h1 {
         font-size: 3.5em;
-        padding: 3.75em 0 .25em 0;
+        padding: 3.75em 0em .25em 0em;
     }
 
     button {
