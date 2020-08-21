@@ -24,7 +24,7 @@ nav {
 header {
     display: block;
     width: 100%;
-    padding-top: 1em;
+    padding-top: .5em;
     padding-bottom: .5em;
 }
 
@@ -96,7 +96,7 @@ h1 {
     font-family: "fairwater-script", sans-serif;
     color: #6000F1;
     font-size: 6em;
-    padding: 2em 0em .25em 0em;
+    padding: 2.5em 0em .25em 0em;
     overflow: hidden; /* Ensures the content is not revealed until the animation */
     border-right: .02em solid #000; /* The typwriter cursor */
     white-space: nowrap; /* Keeps the content on a single line */
@@ -469,7 +469,7 @@ footer {
 
     h1 {
         font-size: 6em;
-        padding: 2em 0em .20em 0em;
+        padding: 2.5em 0em .20em 0em;
     }
 
     button {
@@ -514,7 +514,7 @@ footer {
 @media only screen and (max-width: 813px) {
     h1 {
         font-size: 4.5em;
-        padding: 2.75em 0em .25em 0em;
+        padding: 2.5em 0em .25em 0em;
     }
 
     button {
@@ -597,7 +597,7 @@ footer {
 @media only screen and (max-width: 568px) {
     h1 {
         font-size: 3.5em;
-        padding: 3.75em 0em .25em 0em;
+        padding: 3em 0em .25em 0em;
     }
 
     button {
