@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2260" height="683" viewBox="0 0 2260 683">
+  <defs>
+    <clipPath id="clip-img_designprocess">
+      <rect width="2260" height="683"/>
+    </clipPath>
+  </defs>
+  <g id="img_designprocess" clip-path="url(#clip-img_designprocess)">
+    <rect width="2260" height="683" fill="#fff"/>
+    <g id="Group_1328" data-name="Group 1328" transform="translate(0 -238)">
+      <text id="Emphasize" transform="translate(176 325)" font-size="35" font-family="Quicksand-Medium, Quicksand" font-weight="500"><tspan x="0" y="0">Emphasize</tspan></text>
+      <text id="Define" transform="translate(557 325)" font-size="35" font-family="Quicksand-Medium, Quicksand" font-weight="500"><tspan x="0" y="0">Define</tspan></text>
+      <text id="Ideate" transform="translate(905 325)" font-size="35" font-family="Quicksand-Medium, Quicksand" font-weight="500"><tspan x="0" y="0">Ideate</tspan></text>
+      <text id="Prototype" transform="translate(1223 325)" font-size="35" font-family="Quicksand-Medium, Quicksand" font-weight="500"><tspan x="0" y="0">Prototype</tspan></text>
+      <text id="Test" transform="translate(1618 325)" font-size="35" font-family="Quicksand-Medium, Quicksand" font-weight="500"><tspan x="0" y="0">Test</tspan></text>
+      <text id="Deploy" transform="translate(1940 325)" font-size="35" font-family="Quicksand-Medium, Quicksand" font-weight="500"><tspan x="0" y="0">Deploy</tspan></text>
+      <g id="Group_1" data-name="Group 1" transform="translate(-5 12)">
+        <path id="icons8-male-user" d="M52,2a50,50,0,1,0,50,50A50,50,0,0,0,52,2Zm0,13.75A16.25,16.25,0,1,1,35.75,32,16.25,16.25,0,0,1,52,15.75ZM52,92A39.891,39.891,0,0,1,21.56,77.94a5.077,5.077,0,0,1,.865-7.355C30.01,64.88,43.83,62,52,62s21.99,2.88,29.58,8.585a5.078,5.078,0,0,1,.865,7.355A39.909,39.909,0,0,1,52,92Z" transform="translate(215.978 469)" fill="#6000f1"/>
+        <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(135 388)" fill="none" stroke="#000" stroke-width="5">
+          <circle cx="133" cy="133" r="133" stroke="none"/>
+          <circle cx="133" cy="133" r="130.5" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_2" data-name="Group 2" transform="translate(32 13)">
+        <path id="icons8-edit" d="M63.526,20.424,3,80.947V102H24.053L84.579,41.475ZM98.642,6.361a14.883,14.883,0,0,0-21.053,0l-6.168,6.168L92.474,33.581l6.168-6.168A14.891,14.891,0,0,0,98.642,6.361Z" transform="translate(525 468.001)" fill="#6000f1"/>
+        <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(445 387)" fill="none" stroke="#000" stroke-width="5">
+          <circle cx="133" cy="133" r="133" stroke="none"/>
+          <circle cx="133" cy="133" r="130.5" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_3" data-name="Group 3" transform="translate(379 13)">
+        <g id="Ellipse_2-2" data-name="Ellipse 2" transform="translate(445 387)" fill="none" stroke="#000" stroke-width="5">
+          <circle cx="133" cy="133" r="133" stroke="none"/>
+          <circle cx="133" cy="133" r="130.5" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_4" data-name="Group 4" transform="translate(726 13)">
+        <g id="Ellipse_2-3" data-name="Ellipse 2" transform="translate(445 387)" fill="none" stroke="#000" stroke-width="5">
+          <circle cx="133" cy="133" r="133" stroke="none"/>
+          <circle cx="133" cy="133" r="130.5" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_5" data-name="Group 5" transform="translate(1073 13)">
+        <g id="Ellipse_2-4" data-name="Ellipse 2" transform="translate(445 387)" fill="none" stroke="#000" stroke-width="5">
+          <circle cx="133" cy="133" r="133" stroke="none"/>
+          <circle cx="133" cy="133" r="130.5" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_6" data-name="Group 6" transform="translate(1420 13)">
+        <g id="Ellipse_2-5" data-name="Ellipse 2" transform="translate(445 387)" fill="none" stroke="#000" stroke-width="5">
+          <circle cx="133" cy="133" r="133" stroke="none"/>
+          <circle cx="133" cy="133" r="130.5" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_1327" data-name="Group 1327" transform="translate(0 -15)">
+        <g id="Group_1324" data-name="Group 1324" transform="translate(-17 -53)">
+          <rect id="Rectangle_929" data-name="Rectangle 929" width="620" height="96" transform="translate(130 839)" fill="#6001f1"/>
+          <text id="Emphasize-2" data-name="Emphasize" transform="translate(332 830)" fill="#fff" font-size="50" font-family="FairwaterScript-Bold, Fairwater Script" font-weight="700"><tspan x="0" y="66">Emphasize</tspan></text>
+        </g>
+        <g id="Group_1325" data-name="Group 1325" transform="translate(-17 -46)">
+          <rect id="Rectangle_930" data-name="Rectangle 930" width="620" height="96" transform="translate(837 832)" fill="#6001f1"/>
+          <text id="Emphasize-3" data-name="Emphasize" transform="translate(1039 823)" fill="#fff" font-size="50" font-family="FairwaterScript-Bold, Fairwater Script" font-weight="700"><tspan x="0" y="66">Emphasize</tspan></text>
+        </g>
+        <g id="Group_1326" data-name="Group 1326" transform="translate(-17 -46)">
+          <g id="Group_1323" data-name="Group 1323" transform="translate(0 -10)">
+            <rect id="Rectangle_931" data-name="Rectangle 931" width="620" height="96" transform="translate(1544 842)" fill="#6001f1"/>
+            <text id="Emphasize-4" data-name="Emphasize" transform="translate(1746 833)" fill="#fff" font-size="50" font-family="FairwaterScript-Bold, Fairwater Script" font-weight="700"><tspan x="0" y="66">Emphasize</tspan></text>
+          </g>
+        </g>
+      </g>
+      <path id="icons8-apple-app-store" d="M82.522,5.074H27.478A22.476,22.476,0,0,0,5,27.549v54.84a22.478,22.478,0,0,0,22.478,22.478H82.525A22.479,22.479,0,0,0,105,82.389V27.549A22.476,22.476,0,0,0,82.522,5.074Zm-49.6,79.2A5,5,0,1,1,24.3,79.224l.727-1.243a12.251,12.251,0,0,1,4.035-.585h.013a8.342,8.342,0,0,1,6.16,2.94ZM61.033,72.389H22.5a5,5,0,1,1,0-10H34.163L48.828,37.364,44.3,29.637a5,5,0,0,1,8.628-5.057l1.695,2.892,1.695-2.892a5,5,0,1,1,8.627,5.057L45.753,62.389H56.2a12.274,12.274,0,0,1,3.873,4.1l.007.01A8.326,8.326,0,0,1,61.033,72.389Zm26.467,0H80.942l4.005,6.833a5,5,0,0,1-8.628,5.052L60.942,58.032a12.484,12.484,0,0,1,.272-12.357l2.065-3.432,11.8,20.147H87.5a5,5,0,1,1,0,10Z" transform="translate(1943 477.926)" fill="#6001f1"/>
+      <path id="icons8-iphone-x" d="M68.636,89.636V12.364A11.368,11.368,0,0,0,57.273,1H16.364A11.368,11.368,0,0,0,5,12.364V89.636A11.368,11.368,0,0,0,16.364,101H57.273A11.368,11.368,0,0,0,68.636,89.636ZM57.273,91.909H16.364a2.274,2.274,0,0,1-2.273-2.273V12.364a2.274,2.274,0,0,1,2.273-2.273h5.114l3.291,6.577a4.539,4.539,0,0,0,4.064,2.514H44.614a4.539,4.539,0,0,0,4.064-2.514l3.291-6.577h5.3a2.274,2.274,0,0,1,2.273,2.273V89.636A2.274,2.274,0,0,1,57.273,91.909Z" transform="translate(1267 482)" fill="#6001f1"/>
+      <path id="icons8-light-on" d="M79.167,50A29.2,29.2,0,0,0,49.492,20.837,29.536,29.536,0,0,0,20.854,48.908,29.163,29.163,0,0,0,37.5,76.313v7.021A12.5,12.5,0,0,0,50,95.833h0a12.5,12.5,0,0,0,12.5-12.5V76.313A29.174,29.174,0,0,0,79.167,50Zm16.667-4.167A4.167,4.167,0,1,0,100,50,4.167,4.167,0,0,0,95.833,45.833Zm-91.667,0A4.167,4.167,0,1,0,8.333,50a4.167,4.167,0,0,0-4.167-4.167ZM50,0a4.167,4.167,0,1,0,4.167,4.167A4.167,4.167,0,0,0,50,0ZM82.408,78.242a4.167,4.167,0,1,0,4.167,4.167A4.167,4.167,0,0,0,82.408,78.242ZM17.592,13.425a4.167,4.167,0,1,0,4.167,4.167,4.167,4.167,0,0,0-4.167-4.167Zm0,64.817a4.167,4.167,0,1,0,4.167,4.167A4.167,4.167,0,0,0,17.592,78.242ZM82.408,13.425a4.167,4.167,0,1,0,4.167,4.167,4.167,4.167,0,0,0-4.167-4.167Z" transform="translate(907 485)" fill="#6001f1"/>
+      <path id="icons8-user-groups" d="M33.333,1a12.5,12.5,0,1,0,12.5,12.5A12.5,12.5,0,0,0,33.333,1ZM66.667,1a12.5,12.5,0,1,0,12.5,12.5A12.5,12.5,0,0,0,66.667,1ZM50,46.833a12.5,12.5,0,1,0,12.5,12.5A12.5,12.5,0,0,0,50,46.833Zm7.917,27.083A17.234,17.234,0,0,1,50,76a17.234,17.234,0,0,1-7.917-2.083A17.185,17.185,0,0,0,33.333,88.5v5S37.5,96.833,50,96.833,66.667,93.5,66.667,93.5v-5A17.185,17.185,0,0,0,57.917,73.917ZM83.333,26a12.5,12.5,0,1,0,12.5,12.5A12.5,12.5,0,0,0,83.333,26ZM91.25,53.083a16.083,16.083,0,0,1-15.833,0,17.185,17.185,0,0,0-8.75,14.583v5S70.833,76,83.333,76,100,72.667,100,72.667v-5A17.185,17.185,0,0,0,91.25,53.083ZM16.667,26a12.5,12.5,0,1,0,12.5,12.5A12.5,12.5,0,0,0,16.667,26Zm7.917,27.083a17.234,17.234,0,0,1-7.917,2.083A17.234,17.234,0,0,1,8.75,53.083,17.185,17.185,0,0,0,0,67.667v5S4.167,76,16.667,76s16.667-3.333,16.667-3.333v-5A17.185,17.185,0,0,0,24.583,53.083Z" transform="translate(1601 484)" fill="#6001f1"/>
+      <line id="Line_6" data-name="Line 6" x2="81" transform="translate(396.5 532.5)" fill="none" stroke="#000" stroke-width="5"/>
+      <line id="Line_7" data-name="Line 7" x2="81" transform="translate(743.5 532.5)" fill="none" stroke="#000" stroke-width="5"/>
+      <line id="Line_8" data-name="Line 8" x2="81" transform="translate(1088.5 532.5)" fill="none" stroke="#000" stroke-width="5"/>
+      <line id="Line_9" data-name="Line 9" x2="81" transform="translate(1437.5 532.5)" fill="none" stroke="#000" stroke-width="5"/>
+      <line id="Line_10" data-name="Line 10" x2="81" transform="translate(1782.5 532.5)" fill="none" stroke="#000" stroke-width="5"/>
+    </g>
+  </g>
+</svg>
