@@ -177,7 +177,7 @@ video {
 }
 
 footer {
-    background-color: #000000;
+    background-color: #6000F1;
     margin-top: 5em;
     padding-bottom: 5em;
 }
@@ -197,14 +197,14 @@ footer {
 .h5-footer {
     font-family: "fairwater-script", sans-serif;
     font-size: .9em;
-    font-weight: 200;
+    font-weight: 300;
     color: #fff;
     width: 100%;
     padding: 2em;
     margin: 0 auto;
     line-height: 2em;
     text-align: center;
-    background-color: #000;
+    background-color: #6000F1;
 }
 
 .h5-header {
@@ -417,7 +417,7 @@ footer {
 
 .three-column-footer {
     display: block;
-    background-color: #000;
+    background-color: #6000F1;
     width: 100%;
     margin: 0 auto;
 }
