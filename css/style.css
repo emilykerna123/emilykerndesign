@@ -78,6 +78,27 @@ h1 a:active {
     color: #6000F1;
 }
 
+.h6-small a:link {     
+    text-decoration: none;
+    color: #6000F1;
+}
+
+.h6-small a:visited {     
+    text-decoration: none;
+    color: #6000F1;
+}
+
+.h6-small a:hover {     
+    text-decoration: none;
+    color: #6000F1;
+    opacity: .5;
+}
+
+.h6-small a:active {     
+    text-decoration: none;
+    color: #6000F1;
+}
+
 button {
     padding: .1em 0;
     background-color: #fff;
@@ -140,7 +161,7 @@ h5 {
     font-size: .9em;
     color: #000;
     background-color: #fff;
-    padding: .02em;
+    padding: .8em;
     font-weight: 300;
     margin: 0 auto;
     line-height: 2em;
@@ -240,6 +261,16 @@ footer {
     line-height: 1.20em;
     text-align: center;
     font-weight: 400;
+}
+
+.h6-small {
+    font-family: "fairwater-script", sans-serif;
+    font-size: 1em;
+    color: #6000F1;
+    line-height: .5em;
+    text-align: center;
+    font-weight: 400;
+    padding: .01em;
 }
 
 .small-icon img {
@@ -558,6 +589,10 @@ footer {
         font-size: .7em;
     }
 
+    .h6-small {
+    font-size:.8em;
+    }
+
     .small-icon img {
         width: 12%;
         margin: .5em;
@@ -644,6 +679,10 @@ footer {
 
     .h6-purple {
         font-size: .7em;
+    }
+
+    .h6-small {
+    font-size:.7em;
     }
 
     .large-icon img {
