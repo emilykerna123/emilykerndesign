@@ -397,7 +397,7 @@ footer {
     width: 90 %;
 }
 
-.blubrush {
+.mobile {
     width: 35%;
 }
 
@@ -524,7 +524,7 @@ footer {
         max-width: 35em;
     }
 
-    .blubrush {
+    .mobile {
         width: 40%;
     }
 
@@ -616,7 +616,7 @@ footer {
         max-width: 30em;
     }
 
-    .blubrush {
+    .mobile {
         width: 50%;
     }
 
@@ -711,7 +711,7 @@ footer {
         max-width: 25em;
     }
 
-    .blubrush {
+    .mobile {
         width: 50%;
     }
 
