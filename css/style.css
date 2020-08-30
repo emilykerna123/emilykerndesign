@@ -401,6 +401,10 @@ footer {
     width: 35%;
 }
 
+.mobile2 {
+    width: 45%;
+}
+
 .clearfix:after {
     visibility: hidden;
     display: block;
@@ -528,6 +532,10 @@ footer {
         width: 40%;
     }
 
+    .mobile2 {
+        width: 50%;
+    }
+
     .h4-purple {
         font-size: 1em;
     }
@@ -618,6 +626,10 @@ footer {
 
     .mobile {
         width: 50%;
+    }
+
+    .mobile2 {
+        width: 60%;
     }
 
     .h4-purple {
@@ -713,6 +725,10 @@ footer {
 
     .mobile {
         width: 50%;
+    }
+
+    .mobile2 {
+        width: 60%;
     }
 
     .h4-purple {
