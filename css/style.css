@@ -272,8 +272,13 @@ footer {
     padding: .01em;
 }
 
+.medium-icon img {
+    width: 7%;
+    margin: 1em;
+}
+
 .small-icon img {
-    width: 6%;
+    width: 5%;
     margin: 1em;
 }
 
