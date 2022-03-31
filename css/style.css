@@ -140,7 +140,7 @@ h3 {
     font-weight: 500;
     color: #000;
     width: 100%;
-    padding: 2.75em 0em .02em 0em;
+    padding: 3em 0em .5em 0em;
 }
 
 h4 {
@@ -160,12 +160,12 @@ h5 {
     font-size: .9em;
     color: #000;
     background-color: #fff;
-    padding: .8em;
+    padding: 0em;
     font-weight: 300;
     margin: 0 auto;
     line-height: 2em;
     text-align: center;
-    width: 65%;
+    width: 45%;
     text-align-last: center;
 }
 
@@ -282,6 +282,15 @@ footer {
     margin: 1em;
 }
 
+.animation  img {
+    width: 10%;
+    margin: 0em;
+}
+
+.small-animation  img {
+    width: 7%;
+    margin: 2em 0em 1em 0em
+
 .iframe {
     width: 100%;
     margin: 0 auto;
@@ -348,7 +357,7 @@ footer {
 .fourty-images img {
     width: 100%;
     margin: 0 auto;
-    padding: 1em;
+    padding: .5em;
     max-width: 40em;
     display: block;
 }
@@ -380,7 +389,7 @@ footer {
 .sixty-images img {
     width: 100%;
     margin: 0 auto;
-    padding: 1em;
+    padding: 1.5em;
     max-width: 60em;
     display: block;
 }
@@ -605,6 +614,11 @@ footer {
 
     .large-icon img {
         width: 10%;
+        margin: .5em;
+    }
+
+    .xl-large-icon img {
+        width: 5%;
         margin: 1em;
     }
     
