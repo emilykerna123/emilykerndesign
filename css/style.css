@@ -348,7 +348,7 @@ footer {
 .fourty-images img {
     width: 100%;
     margin: 0 auto;
-    padding: 1em;
+    padding: 0em;
     max-width: 40em;
     display: block;
 }
