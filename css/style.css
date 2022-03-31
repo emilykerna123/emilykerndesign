@@ -278,7 +278,7 @@ footer {
 }
 
 .small-icon img {
-    width: 5%;
+    width: 3%;
     margin: 1em;
 }
 
@@ -509,6 +509,11 @@ footer {
         padding: 2.5em 0em .20em 0em;
     }
 
+    .medium-icon img {
+        width: 8%;
+        margin: 1em;
+    }
+
     button {
     font-size: .75em;
     }
@@ -564,6 +569,11 @@ footer {
 
     h3 {
         font-size: 1.5em;
+    }
+
+    .medium-icon img {
+        width: 10%;
+        margin: 1em;
     }
 
     h5 {
@@ -651,6 +661,11 @@ footer {
 
     button {
         font-size: .45em;
+    }
+
+    .medium-icon img {
+        width: 12%;
+        margin: 1em;
     }
 
     h3 {
