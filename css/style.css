@@ -147,7 +147,7 @@ h4 {
     font-family: "fairwater-script", sans-serif;
     color: #000;
     font-size: 1.6em;
-    padding: .5em;
+    padding: 3em 0em 1em .5em;
     opacity: 1;
     margin: 0 auto;
     text-align: center;
@@ -187,6 +187,11 @@ p {
     line-height: 1.20em;
     text-align: center;
 }
+
+.bolded {
+    font-weight: bold;
+}
+
 
 img {
     width: 80%;
