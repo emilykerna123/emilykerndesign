@@ -192,6 +192,9 @@ p {
     font-weight: bold;
 }
 
+.extraspace {
+    margin-bottom: 1em;
+}
 
 img {
     width: 80%;
