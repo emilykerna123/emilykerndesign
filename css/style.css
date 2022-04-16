@@ -126,6 +126,20 @@ h1 {
     animation: 3.75s typing steps(50, end), blink-caret .75s step-end infinite;
 }
 
+#h1-small {
+    font-family: "fairwater-script", sans-serif;
+    color: #6000F1;
+    font-size: 4em;
+    padding: 2em 0em .15em 0em;
+    border-right: .02em solid #000; /* The typwriter cursor */
+    white-space: nowrap; /* Keeps the content on a single line */
+    margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+    display: block;
+    font-weight: 500;
+    animation: 3.75s typing steps(70, end), blink-caret .5s step-end infinite;
+    animation-delay: 1.5s;
+}
+
 h2 {
     font-family: "quicksand", sans-serif;
     color: #fff;
@@ -140,14 +154,23 @@ h3 {
     font-weight: 500;
     color: #000;
     width: 100%;
-    padding: 2.75em 0em .02em 0em;
+    padding: 2em 0em .5em 0em;
+}
+
+.h3-home {
+    font-family: "fairwater-script", sans-serif;
+    font-size: 2.25em;
+    font-weight: 500;
+    color: #000;
+    width: 100%;
+    padding: 3.25em 0em .10em 0em;
 }
 
 h4 {
     font-family: "fairwater-script", sans-serif;
     color: #000;
     font-size: 1.6em;
-    padding: 3em 0em 1em .5em;
+    padding: 1.5em 0em 1em .5em;
     opacity: 1;
     margin: 0 auto;
     text-align: center;
@@ -240,7 +263,7 @@ footer {
     font-size: .8em;
     color: #000;
     background-color: #fff;
-    padding: 0em 0em 8em 0em;
+    padding: 0em 0em 15em 0em;
     font-weight: 300;
     margin: 0 auto;
     line-height: 2em;
@@ -337,7 +360,7 @@ footer {
 .thirty-images img {
     width: 100%;
     margin: 0 auto;
-    padding: 1em;
+    padding: 2em 0em 0em;
     max-width: 30em;
     display: block;
 }
@@ -345,7 +368,7 @@ footer {
 .thirtyfive-images img {
     width: 100%;
     margin: 0 auto;
-    padding: 1em;
+    padding: 2em 0em 0em;
     max-width: 35em;
     display: block;
 }
