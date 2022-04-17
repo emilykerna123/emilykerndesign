@@ -129,15 +129,13 @@ h1 {
 #h1-small {
     font-family: "fairwater-script", sans-serif;
     color: #6000F1;
-    font-size: 4em;
+    font-size: 3.75em;
     padding: 2em 0em .15em 0em;
     border-right: .02em solid #000; /* The typwriter cursor */
     white-space: nowrap; /* Keeps the content on a single line */
     margin: 0 auto; /* Gives that scrolling effect as the typing happens */
     display: block;
     font-weight: 500;
-    animation: 3.75s typing steps(70, end), blink-caret .5s step-end infinite;
-    animation-delay: 1.5s;
 }
 
 h2 {
@@ -541,7 +539,7 @@ footer {
     }
 
     #h1-small {
-        font-size: 4em;
+        font-size: 3.5em;
         padding: 2em 0em .15em 0em;
     }
 
@@ -600,7 +598,7 @@ footer {
     }
 
     #h1-small {
-        font-size: 2.5em;
+        font-size: 2.25em;
         padding: 2em 0em .15em 0em;
     }
 
